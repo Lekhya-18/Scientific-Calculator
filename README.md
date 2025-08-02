@@ -26,6 +26,5 @@ From basic math to trigonometry and equations — it does a lot more than expect
 
 ```bash
 python calculator.py
-'''
 
-BY LEKHYA.P :)
+
